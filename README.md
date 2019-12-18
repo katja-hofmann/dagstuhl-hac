@@ -1,5 +1,7 @@
 # dagstuhl-hac
-Interface and bots for Human-AI Coordination project at Dagstuhl
+Interface and bots for Human-AI Coordination project at Dagstuhl.
+Contributors:
+* Pieter Spronck
 
 This Python 3 program plays the Coordination game with bots.
 
